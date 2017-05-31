@@ -1,2 +1,2 @@
 # purify-image
-This project removes impurities in an inputted PDF image file.
+This project removes impurities from an inputted PDF image file.
